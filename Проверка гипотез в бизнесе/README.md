@@ -16,3 +16,5 @@
 # Общий вывод
 
 Была проведена предварительная подготовка данных, визуализирована информация о географии и демографии сервиса, а также изучены закономерности в дистанциях и длительности поездок, рассчитана месячная выручка на пользователя. Были проверены 3 гипотезы с использованием одностороннего t-теста, вычислены значения функций распределения в точке и для интервала (CDF), а также определена критическая дистанция поездок (PPF).
+
+[html](http://htmlpreview.github.io/?https://github.com/shark-helen/Portfolio/blob/main/%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0%20%D0%B3%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%B7%20%D0%B2%20%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81%D0%B5/e-scooter%20sharing%20(EDA%2C%20hypothesis%20testing).html) [ipynb](https://github.com/shark-helen/Portfolio/blob/main/%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0%20%D0%B3%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%B7%20%D0%B2%20%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81%D0%B5/e-scooter%20sharing%20(EDA%2C%20hypothesis%20testing).ipynb)
